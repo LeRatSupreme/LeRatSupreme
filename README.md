@@ -1,6 +1,6 @@
 - 👋 Salut, je suis LeRatSupreme
 - 👨‍💻 Dev lua depuis 3ans
-- 🌱 Dev pour ...
+- 🌱 Dev pour To The Hills
 
 <!---
 LeRatSupreme/LeRatSupreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
