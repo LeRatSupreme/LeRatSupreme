@@ -1,6 +1,6 @@
-- 👋 Salut, je suis LeRatSupreme
+- 👋 Salut, je suis Sofiane
 - 👨‍💻 Dev lua depuis 3ans
-- 🌱 Owner MegaFive Leak
+- 🌱 Actuellement en BUT 1 à l'IUT de Dijon
 
 <!---
 LeRatSupreme/LeRatSupreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
