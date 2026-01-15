@@ -1,8 +1,12 @@
-- 👋 Salut, je suis Sofiane
-- 👨‍💻 Dev lua depuis 5ans
-- 🌱 Actuellement en BUT 2 Informatique
+### Salut, je suis Sofiane ! 👋
 
-<!---
-LeRatSupreme/LeRatSupreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Étudiant en Informatique & Passionné de Code**
+
+J'ai commencé le développement il y a 5 ans avec **Lua** (scripting), ce qui m'a donné le goût de la logique et de l'automatisation. Aujourd'hui, je professionnalise mes compétences à l'université.
+
+- 🎓 **Actuellement :** En BUT 3 Informatique (Bachelor Universitaire de Technologie).
+- 👨‍💻 **Expérience :** Développeur Lua depuis 5 ans.
+- 🌱 **En apprentissage :** Support IT.
+- 🎯 **Objectif :** Devenir un Ingénieur Logiciel complet et polyvalent.
+
+---
