@@ -41,15 +41,6 @@ Open to new opportunities — let's talk!
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LeRatSupreme&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeRatSupreme&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<br/>
-
 <p align="center">
 Between clean code and side projects, always eager to learn. 💡<br/>
 Open to ambitious collaborations — let's build something great together! 🚀
