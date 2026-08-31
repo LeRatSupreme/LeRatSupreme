@@ -1,17 +1,15 @@
-<h1 align="center">Salut, je suis Sofiane 👋 · Hi, I'm Sofiane 👋</h1>
+<h1 align="center">Hi there, I'm Sofiane 👋</h1>
+
+<h3 align="center">Software Developer · Full-Stack & Infra Enthusiast</h3>
 
 <p align="center">
-<i>🇫🇷 Alternant Ingénieur Informatique · 🇬🇧 Software Engineering Apprentice</i>
+Building full-stack web apps and exploring infrastructure, one project at a time.<br/>
+Open to new opportunities — let's talk!
 </p>
 
-<p align="center">
-🇫🇷 Actuellement en support IT chez <b>Alcatel Submarine Networks</b> (Calais), je rejoins le <b>CESI d'Arras</b> en cycle ingénieur informatique à la rentrée 2026.<br/>
-🇬🇧 Currently an IT support apprentice at <b>Alcatel Submarine Networks</b> (Calais), joining <b>CESI Arras</b> as a Computer Engineering student in September 2026.
-</p>
+<br/>
 
----
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -32,20 +30,27 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+<br/>
 
-### 🎯 Parcours · Background
+## 🎯 Background
 
-- 🎓 **FR** : BUT Informatique (Parcours DACS) réalisé en alternance chez Alcatel Submarine Networks — **EN**: BUT Informatique (DACS track) completed as an apprentice at Alcatel Submarine Networks
-- 🚀 **FR** : Prochaine étape — cycle ingénieur au CESI d'Arras en alternance à partir de septembre 2026 — **EN**: Next step — Engineering degree at CESI Arras (work-study) starting September 2026
-- 👨‍💻 **FR** : Développeur autodidacte depuis plusieurs années, débuts avec Lua (scripting) — **EN**: Self-taught developer for several years, started with Lua (scripting)
-- 🌱 **FR** : Aujourd'hui orienté full-stack web (Next.js / FastAPI) et infrastructure (Docker, OpenStack) — **EN**: Now focused on full-stack web (Next.js / FastAPI) and infrastructure (Docker, OpenStack)
+- 🎓 **BUT Informatique** (DACS track), completed as an apprentice at Alcatel Submarine Networks
+- 👨‍💻 Self-taught developer, started out scripting in Lua before moving into full-stack web dev
+- 🌱 Focused on full-stack web (Next.js / FastAPI) and infrastructure (Docker, OpenStack)
+- 🎯 **Goal:** becoming a versatile, well-rounded Software Engineer
 
----
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=LeRatSupreme&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeRatSupreme&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<br/>
 
 <p align="center">
-🇫🇷 Entre lignes de code et projets perso, toujours curieux d'apprendre.<br/>
-🇬🇧 Between clean code and side projects, always eager to learn.<br/><br/>
-🇫🇷 Ouvert aux collaborations ambitieuses — construisons quelque chose ensemble !<br/>
-🇬🇧 Open to ambitious collaborations — let's build something great together!
+Between clean code and side projects, always eager to learn. 💡<br/>
+Open to ambitious collaborations — let's build something great together! 🚀
 </p>
